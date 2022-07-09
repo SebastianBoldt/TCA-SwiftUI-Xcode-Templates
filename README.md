@@ -9,7 +9,7 @@
 
 Use the install script.
 
-```sudo swift install.swift```
+```./install.sh```
 
 ## 🤖 Authors
 
@@ -18,5 +18,3 @@ Sebastian Boldt, https://www.sebastianboldt.com
 ## 📄 License
 
 This Template is available under the MIT license. See the LICENSE file for more info.
-
-# TCA-SwiftUI-Xcode-Templates
